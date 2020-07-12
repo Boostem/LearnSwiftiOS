@@ -1,2 +1,6 @@
 # LearnSwiftiOS
-My adventure with learning Swift, SwiftUI and Firebase for iOS App Development. 
+My adventure with learning Swift, SwiftUI and Firebase for iOS App Development. I am using Dr. Angela Yu's iOS 13 Swift Udemy course. 
+
+https://www.udemy.com/course/ios-13-app-development-bootcamp/ 
+
+All assets used belong to App Brewery 
